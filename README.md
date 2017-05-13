@@ -1,2 +1,2 @@
-# score-card
+# scorecard
 A scorecard.
